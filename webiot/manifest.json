@@ -1,0 +1,22 @@
+{
+  "short_name": "Mundo Generador",
+  "name": "Mundo Generador Monitoreo",
+  "icons": [
+    {
+      "src": "/dist/img/mg192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/dist/img/mg512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#e9ecef",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#1e1e1e",
+  "description": "Mundo Generador"
+}
